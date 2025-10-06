@@ -1,0 +1,54 @@
+.signup-body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.container {
+    display: grid;
+    max-width: 300px;
+    text-align: center;
+}
+.container h1 {
+    font-size: 28px;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.container input {
+    border-bottom: 3px solid;
+    margin-bottom: 10px;
+    height: 40px;
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    outline: none;
+}
+.container input::placeholder {
+    color: #707070;
+    font-size: 16px;
+}
+.account-select {
+    width: 100%;
+    margin-bottom: 20px;
+    outline: none;
+    border-radius: 0px;
+    font-size: 16px;
+    /* background: #595959; */
+    border: none;
+    border-bottom: 3px solid black;
+    height: 40px;
+    /* color: white; */
+}
+
+
+.container button {
+    background-color: #0d0d0d;
+    color: white;
+    height: 40px;
+    width: 100%;
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 12px;
+}
+.container button:hover{
+    background-color: #333333 ;
+}
