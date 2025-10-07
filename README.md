@@ -87,5 +87,9 @@ docker compose down
 ```
 docker ps
 ```
+### Youtube video link:
+```
+https://youtu.be/02daiKI8h2A?si=vONrW5cUY1yTcF2z
+```
 
 
